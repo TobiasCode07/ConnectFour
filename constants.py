@@ -1,0 +1,14 @@
+TITLE = "Connect four"
+ICON = "icon.png"
+WIDTH = 700
+HEIGHT = 700
+PADDING = 100
+ROWS = 6
+COLS = 7
+RADIUS = (WIDTH / COLS) / 2 - 2
+SQUARE_SIZE = WIDTH / COLS
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
+YELLOW = (255, 255, 0)
+RED = (255, 0, 0)
+BLUE = (0, 0, 255)
